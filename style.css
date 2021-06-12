@@ -42,13 +42,13 @@ body {
   border-radius: 5px;
   margin-top: 5%;
 }
-#primary {
+.primary {
   color: hsl(234, 12%, 34%);
   font-size: 18px;
   font-weight: 700;
   line-height: 0.1;
 }
-#secondary {
+.secondary {
   color: hsl(229, 6%, 66%);
   font-weight: 400;
 }
